@@ -6,4 +6,4 @@ Juego con reglas similares a la generala, simulando partida de poker entre dos j
 
 <hr/>
 
-Escrito en HTML5 con hoja de estilos CSS, JavaScript y utilización de Bootstrap.
+Escrito en HTML5 con hoja de estilos CSS, JavaScript y utilización de Bootstrap. Las imágenes utilizadas fueron editadas con Inkscape.

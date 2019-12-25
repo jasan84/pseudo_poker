@@ -1,6 +1,6 @@
 # pseudo_poker
 
-<b>Segundo ejercicio de curso ComIt. </b>
+<b>Segundo ejercicio de curso ComIt. Ago-2019 </b>
 
 Juego con reglas similares a la generala, simulando partida de poker entre dos jugadores (PC y usuario).
 
